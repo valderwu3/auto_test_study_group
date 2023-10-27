@@ -1,0 +1,2 @@
+# auto_test_study_group
+记录自动化测试学习小组学习资料
